@@ -1,0 +1,9 @@
+Enter the 4 elements of first matrix: 1 3 7 5 The first matrix is 
+1 3 
+7 5 
+Enter the 4 elements of second matrix: 6 7 3 8 The second matrix is 
+6 7 
+3 8 
+After multiplication using Strassen's algorithm  
+15 31 
+57 89
